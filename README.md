@@ -4,7 +4,7 @@ Welcome to my custom Amazon UI project! This project aims to replicate the Amazo
 
 ## Preview
 
-![Amazon UI Preview](https://kshatsharmaaa.github.io/Amazon-UI/)
+[Amazon UI Preview](https://kshatsharmaaa.github.io/Amazon-UI/)
 
 ## Features
 
